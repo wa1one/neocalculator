@@ -1,0 +1,16 @@
+{
+  "name": "serv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "your name <vladimir.k@clever-solution.com> (https://vladimirkovalchuk8.wixsite.com/profile)",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.3.3",
+    "graphql": "^16.6.0"
+  }
+}
